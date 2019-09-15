@@ -1,3 +1,9 @@
+mx-tools (19.9.01) mx; urgency=medium
+
+  * improve hide function 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 14 Sep 2019 20:35:38 -0400
+
 mx-tools (19.8.1) mx; urgency=medium
 
   * allow restoring window size if started maximized
